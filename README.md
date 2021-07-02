@@ -2,17 +2,7 @@
 
 Criar um app básico a fim de testar o conhecimentos
 
-![App%20Desafio%200c4af23a02d84390999330e5b0674030/Screenshot_1610294304.png](App%20Desafio%200c4af23a02d84390999330e5b0674030/Screenshot_1610294304.png)
-
-![App%20Desafio%200c4af23a02d84390999330e5b0674030/Screenshot_1610294296.png](App%20Desafio%200c4af23a02d84390999330e5b0674030/Screenshot_1610294296.png)
-
-![App%20Desafio%200c4af23a02d84390999330e5b0674030/Screenshot_1610294317.png](App%20Desafio%200c4af23a02d84390999330e5b0674030/Screenshot_1610294317.png)
-
-[]()
-
 # Usando os Components
-
----
 
 Vamos usar os seguintes itens:
 
